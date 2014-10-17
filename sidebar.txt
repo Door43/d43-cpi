@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cpi:home|Door43 (cpi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cpi|d43-cpi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cpi/archive/master.zip|d43-cpi.zip]]
+
+**Recent Changes**
+{{changes>ns = cpi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cpi|Ethnologue data]]
+
